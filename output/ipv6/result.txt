@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-06 06:44:54,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-06 18:46:59,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1122,6 +1122,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-4.ctv
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-1.ctv
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-2.ctv
+生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-29.m3u8
 第一财经,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 第一财经,http://ls.qingting.fm/live/276.m3u8
 第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb
@@ -1682,11 +1683,13 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南新闻,https://migu.188766.xyz/?migutoken=acb8228b02b6357f4eaa407b3c916613&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=094376005197f9af95549e0dbb8a284e&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=5a5eb0049c67767b74da940af5285139&id=hn_xwpd&type=sz
+海南新闻,https://migu.188766.xyz/?migutoken=30c501f058d01d6c83afc5cbd547a013&id=hn_xwpd&type=sz
 海南自贸,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=fa2f186303b43ba2fe89cff611b029fc&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=95b0d51eeeb1ac02e1892bb0e429421c&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=a6126eb42a9e1c6826e6c6044e074ce0&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=d1ba989eb5e0af084e7e49f3f9c9aa89&id=hn_jjpd&type=sz
+海南自贸,https://migu.188766.xyz/?migutoken=b5f15c066ecd0c31ff859488fa126e03&id=hn_jjpd&type=sz
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
@@ -1694,11 +1697,13 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南文旅,https://migu.188766.xyz/?migutoken=e87e23dd59cf43d18240c8f5a9a37b5a&id=hn_wlpd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=19612f57e1845813c40c9cc983015be9&id=hn_wlpd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=d93de0e6562908ed7114e4f85fcda240&id=hn_wlpd&type=sz
+海南文旅,https://migu.188766.xyz/?migutoken=f3b91e8fa7548b02501c7ab9cba588fa&id=hn_wlpd&type=sz
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=cfe8916759de41e55d53adf74336019b&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=d001f5f5ff1b8b07ee43cba9afd93e31&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=2a6d3614da8a407b3727e2f1508208ab&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=0af0fce3f220a00decf233aa13610a1c&id=hn_sepd&type=sz
+海南少儿,https://migu.188766.xyz/?migutoken=4b36be211df6ddf77571cc3ed5d2ec5e&id=hn_sepd&type=sz
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-8.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
@@ -1706,6 +1711,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南公共,https://migu.188766.xyz/?migutoken=a76afeed8831109f15787b907840bb78&id=hn_ggpd&type=sz
 海南公共,https://migu.188766.xyz/?migutoken=ef776be65335f1469aa68f2752c58640&id=hn_ggpd&type=sz
 海南公共,https://migu.188766.xyz/?migutoken=5e02622aa8187e6598d70d4287928557&id=hn_ggpd&type=sz
+海南公共,https://migu.188766.xyz/?migutoken=ebef3d53ae838fd0544b3a74aa338fcb&id=hn_ggpd&type=sz
 
 ☘️河南频道,#genre#
 梨园,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
@@ -2324,6 +2330,7 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 靖天资讯,http://pullpackage.alivecdn.com/live/jSi62v69ef4x6iYBScl4GTgr9WaWuRtR1v7DfyIDrCzlEjd4oO.flv
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-2.ctv
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
+靖天资讯,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp6LOH6KiK5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 
 🎬电影频道,#genre#
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy
@@ -2393,10 +2400,14 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
 靖天映画,http://pullpackage.alivecdn.com/live/hTZYTLKukHNqDnshCwsOBdnFoZs5a4UeCJ396iYBSzJGOEv6kg.flv
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
+靖天映画,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8
+靖天映画,https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8
+靖天映画,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5pig55Wr&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 靖天戏剧,http://pullpackage.alivecdn.com/live/pU4fD0cP0dx6iXknYRcEzuZOQ6P6z5FsZ9KvAOPGsBry6iYBSe.flv
 靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
+靖天戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-2.ctv
