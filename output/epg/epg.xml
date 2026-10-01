@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261001013108 +0800">
+<tv date="20261001171919 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -16083,6 +16083,105 @@
 	<programme channel="东方财经" start="20261003011500 +0800" stop="20261003014500 +0800">
 		<title lang="zh">向新出发(1)</title>
 	</programme>
+	<programme channel="东方财经" start="20261003014500 +0800" stop="20261003015000 +0800">
+		<title lang="zh">直击引领区:微度假-EKA·天物</title>
+	</programme>
+	<programme channel="东方财经" start="20261003015000 +0800" stop="20261003015600 +0800">
+		<title lang="zh">直击引领区(91)</title>
+	</programme>
+	<programme channel="东方财经" start="20261003015600 +0800" stop="20261003060100 +0800">
+		<title lang="zh">祝您晚安</title>
+	</programme>
+	<programme channel="东方财经" start="20261003060100 +0800" stop="20261003065100 +0800">
+		<title lang="zh">中国未来时(1)</title>
+	</programme>
+	<programme channel="东方财经" start="20261003065100 +0800" stop="20261003074800 +0800">
+		<title lang="zh">中国未来时(2)</title>
+	</programme>
+	<programme channel="东方财经" start="20261003074800 +0800" stop="20261003080000 +0800">
+		<title lang="zh">直击引领区(58):演艺篇</title>
+	</programme>
+	<programme channel="东方财经" start="20261003080000 +0800" stop="20261003082500 +0800">
+		<title lang="zh">创赢未来(363)</title>
+	</programme>
+	<programme channel="东方财经" start="20261003082500 +0800" stop="20261003085000 +0800">
+		<title lang="zh">创赢未来(364)</title>
+	</programme>
+	<programme channel="东方财经" start="20261003085000 +0800" stop="20261003090000 +0800">
+		<title lang="zh">潮玩浦东:多维的绿洲</title>
+	</programme>
+	<programme channel="东方财经" start="20261003090000 +0800" stop="20261003092500 +0800">
+		<title lang="zh">创时代(209):极限之光</title>
+	</programme>
+	<programme channel="东方财经" start="20261003092500 +0800" stop="20261003093000 +0800">
+		<title lang="zh">直击引领区(25):未来产业篇</title>
+	</programme>
+	<programme channel="东方财经" start="20261003093000 +0800" stop="20261003094500 +0800">
+		<title lang="zh">632观察</title>
+	</programme>
+	<programme channel="东方财经" start="20261003094500 +0800" stop="20261003095000 +0800">
+		<title lang="zh">科创先行者(910)</title>
+	</programme>
+	<programme channel="东方财经" start="20261003095000 +0800" stop="20261003095400 +0800">
+		<title lang="zh">浦东打造全球电竞之都系列专题片</title>
+	</programme>
+	<programme channel="东方财经" start="20261003095400 +0800" stop="20261003100000 +0800">
+		<title lang="zh">潮玩浦东:零下的激情</title>
+	</programme>
+	<programme channel="东方财经" start="20261003100000 +0800" stop="20261003104400 +0800">
+		<title lang="zh">陆家嘴金融沙龙(27)</title>
+	</programme>
+	<programme channel="东方财经" start="20261003104400 +0800" stop="20261003104900 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20261003104900 +0800" stop="20261003105500 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20261003105500 +0800" stop="20261003110000 +0800">
+		<title lang="zh">直击引领区(25):未来产业篇</title>
+	</programme>
+	<programme channel="东方财经" start="20261003110000 +0800" stop="20261003113000 +0800">
+		<title lang="zh">对话引领区(15)</title>
+	</programme>
+	<programme channel="东方财经" start="20261003113000 +0800" stop="20261003113400 +0800">
+		<title lang="zh">直击引领区(82):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20261003113400 +0800" stop="20261003113900 +0800">
+		<title lang="zh">直击引领区(78):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20261003113900 +0800" stop="20261003114300 +0800">
+		<title lang="zh">直击引领区(79):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20261003114300 +0800" stop="20261003114700 +0800">
+		<title lang="zh">直击引领区(80):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20261003114700 +0800" stop="20261003120000 +0800">
+		<title lang="zh">直击引领区(81):文创篇</title>
+	</programme>
+	<programme channel="东方财经" start="20261003120000 +0800" stop="20261003121500 +0800">
+		<title lang="zh">引领区文化会客厅:浦美文创商店</title>
+	</programme>
+	<programme channel="东方财经" start="20261003121500 +0800" stop="20261003121800 +0800">
+		<title lang="zh">科创之光文明同行</title>
+	</programme>
+	<programme channel="东方财经" start="20261003121800 +0800" stop="20261003123000 +0800">
+		<title lang="zh">科创之光文明同行</title>
+	</programme>
+	<programme channel="东方财经" start="20261003123000 +0800" stop="20261003124500 +0800">
+		<title lang="zh">文化访谈录(303)</title>
+	</programme>
+	<programme channel="东方财经" start="20261003124500 +0800" stop="20261003130000 +0800">
+		<title lang="zh">文化访谈录(325)</title>
+	</programme>
+	<programme channel="东方财经" start="20261003130000 +0800" stop="20261003132500 +0800">
+		<title lang="zh">几何书房(1491):邱锡鹏</title>
+	</programme>
+	<programme channel="东方财经" start="20261003132500 +0800" stop="20261003133000 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20261003133000 +0800" stop="20261003140000 +0800">
+		<title lang="zh">浦东新脸谱(527):冯国群、曹青</title>
+	</programme>
 	<channel id="优漫卡通">
 		<display-name lang="zh">优漫卡通</display-name>
 	</channel>
@@ -16913,6 +17012,48 @@
 	</programme>
 	<programme channel="优漫卡通" start="20261003010000 +0800" stop="20261003050000 +0800">
 		<title lang="zh">卡卡虎大冒险</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261003050000 +0800" stop="20261003054000 +0800">
+		<title lang="zh">奶龙与小七之大战暴暴龙</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261003054000 +0800" stop="20261003060000 +0800">
+		<title lang="zh">奶龙之奇妙冒险</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261003060000 +0800" stop="20261003070000 +0800">
+		<title lang="zh">果茶蜜探</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261003070000 +0800" stop="20261003080000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之筐出胜利</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261003080000 +0800" stop="20261003081500 +0800">
+		<title lang="zh">宠物旅店</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261003081500 +0800" stop="20261003084500 +0800">
+		<title lang="zh">海底小纵队</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261003084500 +0800" stop="20261003090000 +0800">
+		<title lang="zh">新大头儿子和小头爸爸智能小当家</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261003090000 +0800" stop="20261003094000 +0800">
+		<title lang="zh">奶龙与小七之大战暴暴龙</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261003094000 +0800" stop="20261003100000 +0800">
+		<title lang="zh">奶龙之奇妙冒险</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261003100000 +0800" stop="20261003110000 +0800">
+		<title lang="zh">果茶蜜探</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261003110000 +0800" stop="20261003120000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之筐出胜利</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261003120000 +0800" stop="20261003123000 +0800">
+		<title lang="zh">超级飞侠</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261003123000 +0800" stop="20261003125500 +0800">
+		<title lang="zh">来玩吧</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261003125500 +0800" stop="20261003135500 +0800">
+		<title lang="zh">萌鸡小队</title>
 	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
@@ -19319,6 +19460,147 @@
 	</programme>
 	<programme channel="动漫秀场" start="20261002180200 +0800" stop="20261003000000 +0800">
 		<title lang="zh">小王子与土豆仔(11)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003000000 +0800" stop="20261003000600 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003000600 +0800" stop="20261003001200 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003001200 +0800" stop="20261003001900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003001900 +0800" stop="20261003002500 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003002500 +0800" stop="20261003003100 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003003100 +0800" stop="20261003004400 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003004400 +0800" stop="20261003005800 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003005800 +0800" stop="20261003010800 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003010800 +0800" stop="20261003011900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003011900 +0800" stop="20261003013000 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003013000 +0800" stop="20261003014100 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003014100 +0800" stop="20261003015200 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003015200 +0800" stop="20261003020700 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003020700 +0800" stop="20261003022200 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003022200 +0800" stop="20261003023700 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003023700 +0800" stop="20261003025600 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003025600 +0800" stop="20261003031100 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003031100 +0800" stop="20261003032600 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003032600 +0800" stop="20261003034100 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003034100 +0800" stop="20261003040100 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003040100 +0800" stop="20261003040700 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003040700 +0800" stop="20261003041300 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003041300 +0800" stop="20261003042000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003042000 +0800" stop="20261003042600 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003042600 +0800" stop="20261003043700 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003043700 +0800" stop="20261003045000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003045000 +0800" stop="20261003050700 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003050700 +0800" stop="20261003051800 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003051800 +0800" stop="20261003052900 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003052900 +0800" stop="20261003054000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003054000 +0800" stop="20261003054900 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003054900 +0800" stop="20261003060100 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003060100 +0800" stop="20261003061600 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003061600 +0800" stop="20261003063100 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003063100 +0800" stop="20261003064600 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003064600 +0800" stop="20261003070100 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003070100 +0800" stop="20261003071600 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003071600 +0800" stop="20261003073100 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003073100 +0800" stop="20261003074600 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003074600 +0800" stop="20261003080100 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003080100 +0800" stop="20261003080700 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003080700 +0800" stop="20261003081300 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003081300 +0800" stop="20261003082000 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003082000 +0800" stop="20261003082600 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003082600 +0800" stop="20261003083200 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003083200 +0800" stop="20261003084500 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261003084500 +0800" stop="20261003085900 +0800">
+		<title lang="zh">动画剧场</title>
 	</programme>
 	<channel id="北京卡酷少儿">
 		<display-name lang="zh">北京卡酷少儿</display-name>
@@ -22329,6 +22611,93 @@
 	<programme channel="法治天地" start="20261003012000 +0800" stop="20261003014500 +0800">
 		<title lang="zh">案件聚焦:搞定转学</title>
 	</programme>
+	<programme channel="法治天地" start="20261003014500 +0800" stop="20261003022000 +0800">
+		<title lang="zh">和大律师面对面(5134):郑健</title>
+	</programme>
+	<programme channel="法治天地" start="20261003022000 +0800" stop="20261003024000 +0800">
+		<title lang="zh">律师界(12):口腔科的烦恼</title>
+	</programme>
+	<programme channel="法治天地" start="20261003024000 +0800" stop="20261003030500 +0800">
+		<title lang="zh">庭前庭后Ⅱ(6):案结</title>
+	</programme>
+	<programme channel="法治天地" start="20261003030500 +0800" stop="20261003033000 +0800">
+		<title lang="zh">法治新闻:综治中心一站式解纷(2)</title>
+	</programme>
+	<programme channel="法治天地" start="20261003033000 +0800" stop="20261003035500 +0800">
+		<title lang="zh">律师界(12):口腔科的烦恼</title>
+	</programme>
+	<programme channel="法治天地" start="20261003035500 +0800" stop="20261003042000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(6):案结</title>
+	</programme>
+	<programme channel="法治天地" start="20261003042000 +0800" stop="20261003045000 +0800">
+		<title lang="zh">案件聚焦:搞定转学</title>
+	</programme>
+	<programme channel="法治天地" start="20261003045000 +0800" stop="20261003051000 +0800">
+		<title lang="zh">律师界(12):口腔科的烦恼</title>
+	</programme>
+	<programme channel="法治天地" start="20261003051000 +0800" stop="20261003053000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(6):案结</title>
+	</programme>
+	<programme channel="法治天地" start="20261003053000 +0800" stop="20261003060500 +0800">
+		<title lang="zh">和大律师面对面(3418):孙鸣民</title>
+	</programme>
+	<programme channel="法治天地" start="20261003060500 +0800" stop="20261003063000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(6):案结</title>
+	</programme>
+	<programme channel="法治天地" start="20261003063000 +0800" stop="20261003070000 +0800">
+		<title lang="zh">和大律师面对面(5134):郑健</title>
+	</programme>
+	<programme channel="法治天地" start="20261003070000 +0800" stop="20261003072500 +0800">
+		<title lang="zh">法治新闻:综治中心一站式解纷(2)</title>
+	</programme>
+	<programme channel="法治天地" start="20261003072500 +0800" stop="20261003073500 +0800">
+		<title lang="zh">庭前庭后Ⅳ(10)</title>
+	</programme>
+	<programme channel="法治天地" start="20261003073500 +0800" stop="20261003080500 +0800">
+		<title lang="zh">案件聚焦:搞定转学</title>
+	</programme>
+	<programme channel="法治天地" start="20261003080500 +0800" stop="20261003083000 +0800">
+		<title lang="zh">律师界(12):口腔科的烦恼</title>
+	</programme>
+	<programme channel="法治天地" start="20261003083000 +0800" stop="20261003090400 +0800">
+		<title lang="zh">和大律师面对面(3418):孙鸣民</title>
+	</programme>
+	<programme channel="法治天地" start="20261003090400 +0800" stop="20261003092900 +0800">
+		<title lang="zh">案件聚焦:搞定转学</title>
+	</programme>
+	<programme channel="法治天地" start="20261003092900 +0800" stop="20261003100300 +0800">
+		<title lang="zh">庭前庭后Ⅱ(6):案结</title>
+	</programme>
+	<programme channel="法治天地" start="20261003100300 +0800" stop="20261003102300 +0800">
+		<title lang="zh">律师界(12):口腔科的烦恼</title>
+	</programme>
+	<programme channel="法治天地" start="20261003102300 +0800" stop="20261003103000 +0800">
+		<title lang="zh">庭前庭后Ⅳ(10)</title>
+	</programme>
+	<programme channel="法治天地" start="20261003103000 +0800" stop="20261003110000 +0800">
+		<title lang="zh">和大律师面对面(5134):郑健</title>
+	</programme>
+	<programme channel="法治天地" start="20261003110000 +0800" stop="20261003112000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(6):案结</title>
+	</programme>
+	<programme channel="法治天地" start="20261003112000 +0800" stop="20261003114000 +0800">
+		<title lang="zh">律师界(7):千万打赏背后的罪与罚</title>
+	</programme>
+	<programme channel="法治天地" start="20261003114000 +0800" stop="20261003120000 +0800">
+		<title lang="zh">法治新闻:综治中心一站式解纷(2)</title>
+	</programme>
+	<programme channel="法治天地" start="20261003120000 +0800" stop="20261003123000 +0800">
+		<title lang="zh">和大律师面对面(3418):孙鸣民</title>
+	</programme>
+	<programme channel="法治天地" start="20261003123000 +0800" stop="20261003130000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(6):案结</title>
+	</programme>
+	<programme channel="法治天地" start="20261003130000 +0800" stop="20261003133000 +0800">
+		<title lang="zh">案件聚焦:搞定转学</title>
+	</programme>
+	<programme channel="法治天地" start="20261003133000 +0800" stop="20261003135500 +0800">
+		<title lang="zh">法治新闻:综治中心一站式解纷(2)</title>
+	</programme>
 	<channel id="海南卫视">
 		<display-name lang="zh">海南卫视</display-name>
 	</channel>
@@ -22749,28 +23118,25 @@
 	<programme channel="海南卫视" start="20260930232000 +0800" stop="20261001001500 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20261001001500 +0800" stop="20261001023500 +0800">
+	<programme channel="海南卫视" start="20261001001800 +0800" stop="20261001023800 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20261001001500 +0800" stop="20261001023500 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
-	<programme channel="海南卫视" start="20261001023500 +0800" stop="20261001030000 +0800">
+	<programme channel="海南卫视" start="20261001023800 +0800" stop="20261001030300 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
-	<programme channel="海南卫视" start="20261001030000 +0800" stop="20261001035000 +0800">
+	<programme channel="海南卫视" start="20261001030300 +0800" stop="20261001035200 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20261001035000 +0800" stop="20261001042000 +0800">
+	<programme channel="海南卫视" start="20261001035200 +0800" stop="20261001042000 +0800">
 		<title lang="zh">视界</title>
 	</programme>
-	<programme channel="海南卫视" start="20261001042000 +0800" stop="20261001045600 +0800">
+	<programme channel="海南卫视" start="20261001042000 +0800" stop="20261001045900 +0800">
 		<title lang="zh">动漫剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20261001045600 +0800" stop="20261001062500 +0800">
+	<programme channel="海南卫视" start="20261001045900 +0800" stop="20261001062800 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20261001062500 +0800" stop="20261001070000 +0800">
+	<programme channel="海南卫视" start="20261001062800 +0800" stop="20261001070000 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
 	<programme channel="海南卫视" start="20261001070000 +0800" stop="20261001070100 +0800">
@@ -22784,6 +23150,9 @@
 	</programme>
 	<programme channel="海南卫视" start="20261001094000 +0800" stop="20261001102500 +0800">
 		<title lang="zh">唱响北京2026国庆晚会</title>
+	</programme>
+	<programme channel="海南卫视" start="20261001102500 +0800" stop="20261001180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20261001102500 +0800" stop="20261001180800 +0800">
 		<title lang="zh">阳光剧场</title>
@@ -22821,9 +23190,6 @@
 	<programme channel="海南卫视" start="20261002001500 +0800" stop="20261002023500 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20261002001500 +0800" stop="20261002023500 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
 	<programme channel="海南卫视" start="20261002023500 +0800" stop="20261002030000 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
@@ -22847,6 +23213,9 @@
 	</programme>
 	<programme channel="海南卫视" start="20261002070100 +0800" stop="20261002073300 +0800">
 		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20261002073300 +0800" stop="20261002180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20261002073300 +0800" stop="20261002180800 +0800">
 		<title lang="zh">阳光剧场</title>
@@ -22883,6 +23252,33 @@
 	</programme>
 	<programme channel="海南卫视" start="20261003001500 +0800" stop="20261003023500 +0800">
 		<title lang="zh">凌晨剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20261003023500 +0800" stop="20261003030000 +0800">
+		<title lang="zh">步步为营</title>
+	</programme>
+	<programme channel="海南卫视" start="20261003030000 +0800" stop="20261003035000 +0800">
+		<title lang="zh">卫视高尔夫</title>
+	</programme>
+	<programme channel="海南卫视" start="20261003035000 +0800" stop="20261003042000 +0800">
+		<title lang="zh">视界</title>
+	</programme>
+	<programme channel="海南卫视" start="20261003042000 +0800" stop="20261003045600 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20261003045600 +0800" stop="20261003062500 +0800">
+		<title lang="zh">凌晨剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20261003062500 +0800" stop="20261003070000 +0800">
+		<title lang="zh">步步为营</title>
+	</programme>
+	<programme channel="海南卫视" start="20261003070000 +0800" stop="20261003070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="海南卫视" start="20261003070100 +0800" stop="20261003073300 +0800">
+		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20261003073300 +0800" stop="20261003180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<channel id="游戏风云">
 		<display-name lang="zh">游戏风云</display-name>
@@ -23882,6 +24278,69 @@
 	</programme>
 	<programme channel="游戏风云" start="20261003013000 +0800" stop="20261003014500 +0800">
 		<title lang="zh">游戏大厅:飞天猫(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003014500 +0800" stop="20261003020000 +0800">
+		<title lang="zh">游戏大厅:非一般职场(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003020000 +0800" stop="20261003040000 +0800">
+		<title lang="zh">巅峰赛场:2022LPL夏季赛(27)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003040000 +0800" stop="20261003043000 +0800">
+		<title lang="zh">休闲街区:渡神纪(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003043000 +0800" stop="20261003050000 +0800">
+		<title lang="zh">休闲街区:渡神纪(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003050000 +0800" stop="20261003051500 +0800">
+		<title lang="zh">游戏大厅:疯狂动物园(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003051500 +0800" stop="20261003053000 +0800">
+		<title lang="zh">游戏大厅:海绵宝宝(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003053000 +0800" stop="20261003054500 +0800">
+		<title lang="zh">游戏大厅:海绵宝宝(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003054500 +0800" stop="20261003060000 +0800">
+		<title lang="zh">游戏大厅:海绵宝宝(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003060000 +0800" stop="20261003080000 +0800">
+		<title lang="zh">巅峰赛场:2022LPL夏季赛(28)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003080000 +0800" stop="20261003083000 +0800">
+		<title lang="zh">休闲街区:渡神纪(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003083000 +0800" stop="20261003090000 +0800">
+		<title lang="zh">休闲街区:雪场大亨</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003090000 +0800" stop="20261003091500 +0800">
+		<title lang="zh">游戏大厅:海绵宝宝(4)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003091500 +0800" stop="20261003093000 +0800">
+		<title lang="zh">游戏大厅:好公司(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003093000 +0800" stop="20261003094500 +0800">
+		<title lang="zh">游戏大厅:好公司(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003094500 +0800" stop="20261003100000 +0800">
+		<title lang="zh">游戏大厅:好公司(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003100000 +0800" stop="20261003120000 +0800">
+		<title lang="zh">巅峰赛场:2022LPL夏季赛(29)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003120000 +0800" stop="20261003123000 +0800">
+		<title lang="zh">休闲街区:渡神纪-寻神(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003123000 +0800" stop="20261003130000 +0800">
+		<title lang="zh">休闲街区:渡神纪-寻神(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003130000 +0800" stop="20261003131500 +0800">
+		<title lang="zh">游戏大厅:好公司(4)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003131500 +0800" stop="20261003133000 +0800">
+		<title lang="zh">游戏大厅:幻想乡空战姬(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20261003133000 +0800" stop="20261003134500 +0800">
+		<title lang="zh">游戏大厅:混沌银河(1)</title>
 	</programme>
 	<channel id="都市剧场">
 		<display-name lang="zh">都市剧场</display-name>
